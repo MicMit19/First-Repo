@@ -1,5 +1,24 @@
+
+#one {
+  width: 50%;
+  height: 25%;
+  background-color: rgb(66, 244, 188);
+  float: left;
+  
+}
+
+
+#two {
+  width: 50%;
+  height: 25%;
+  background-color: rgb(244, 65, 136);
+  float: right;
+}
+
+
+
 body {
-  background-color: back;
+  background-color: black;
   
   
 }
