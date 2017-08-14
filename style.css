@@ -1,7 +1,7 @@
 
 #one {
   width: 50%;
-  height: 25%;
+  height: 50%;
   background-color: rgb(66, 244, 188);
   float: left;
   
@@ -10,9 +10,10 @@
 
 #two {
   width: 50%;
-  height: 25%;
+  height: 50%;
   background-color: rgb(244, 65, 136);
   float: right;
+  
 }
 
 
